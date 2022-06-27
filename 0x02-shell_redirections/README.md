@@ -1,1 +1,1 @@
-script to dplicate last line
+script to delete .js
