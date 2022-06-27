@@ -1,1 +1,1 @@
-script to replace letters
+script to reverse input
