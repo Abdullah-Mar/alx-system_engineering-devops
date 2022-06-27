@@ -1,1 +1,1 @@
-script for one confused smiley
+first lines
