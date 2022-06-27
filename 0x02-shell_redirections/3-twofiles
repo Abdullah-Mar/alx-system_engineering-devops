@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -l | cat /etc/passwd; ls -l | cat /etc/hosts
+
