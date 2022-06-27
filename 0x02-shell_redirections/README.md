@@ -1,1 +1,1 @@
-script to display the content of 2 files
+Display the content of /etc/passwd and /etc/hosts
