@@ -1,1 +1,1 @@
-script to display all lines except bin
+script to display all files starting with letter
