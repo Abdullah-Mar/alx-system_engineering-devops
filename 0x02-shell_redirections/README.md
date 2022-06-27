@@ -1,1 +1,1 @@
-display lines containig root
+script that count number of line pattern
