@@ -1,1 +1,1 @@
-script to replace alphabets
+script to replace letters
