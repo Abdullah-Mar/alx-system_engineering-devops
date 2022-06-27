@@ -1,1 +1,1 @@
-script that display the third line
+script that creates a file named exactly
