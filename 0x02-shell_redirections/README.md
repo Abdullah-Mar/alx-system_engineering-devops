@@ -1,1 +1,1 @@
-script that creates a file named exactly
+script that save current state of directory
