@@ -1,1 +1,1 @@
-script that count number of line pattern
+display lines containig root and 3 line after
