@@ -1,1 +1,1 @@
-script to reverse input
+uesrs and homes
