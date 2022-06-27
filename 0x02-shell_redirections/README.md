@@ -1,1 +1,1 @@
-first lines
+script that display the third line
