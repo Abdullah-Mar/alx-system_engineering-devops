@@ -1,1 +1,1 @@
-Create a script that counts the number of directories in the PATH
+script to print global variables
